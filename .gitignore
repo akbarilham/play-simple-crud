@@ -10,3 +10,4 @@ app/views
 /app/views
 .bsp
 .g8
+.gitignore
